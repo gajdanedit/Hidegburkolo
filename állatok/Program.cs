@@ -14,6 +14,8 @@ namespace állatok
             emlosok.Add(new Macska("Cirmi",2,"kandúr"));
             emlosok.Add(new Kutya("Bodri",5.2, "kan"));
             emlosok.Add(new Macska("Szerénke",1.3, "nőstény"));
+
+            
             foreach (var item in emlosok) 
             {
                 Console.WriteLine($"{item} - {item.faj}");

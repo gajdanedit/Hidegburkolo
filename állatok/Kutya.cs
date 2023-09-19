@@ -11,5 +11,7 @@ namespace állatok
         public Kutya(string nev, double suly, string nem) : base(nev, "kutya", "vaúú-vaúú", 4, suly, nem)
         {
         }
+
+
     }
 }

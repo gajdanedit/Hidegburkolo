@@ -34,6 +34,10 @@ namespace állatok
             return this.faj;
         }
 
+
+
+
+
         public Emlosok(string nev, string faj, string hang, int labszam, double suly, string nem)
         {
             this.nev=nev;
